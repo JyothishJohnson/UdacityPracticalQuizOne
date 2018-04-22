@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 name.setText("");
                 email.setText("");
                 info.setText("");
+
             }
         });
 
